@@ -169,10 +169,10 @@ android {
 }
 
 dependencies {
-    def daggerVersion = '2.48.1'
+    def daggerVersion = '2.51.1'
     def daggerAndroidProcessor = "com.google.dagger:dagger-android-processor:$daggerVersion"
     def daggerCompiler = "com.google.dagger:dagger-compiler:$daggerVersion"
-    def hiltVersion = '2.48.1'
+    def hiltVersion = '2.51.1'
     def retrofitVersion = '2.9.0'
     def espressoVersion = '3.5.1'
     def espresso = "androidx.test.espresso:espresso-core:$espressoVersion"
